@@ -5,7 +5,7 @@ export default [
     id: 1,
     icon: <FaCode className="service-icon" />,
     title: "Github",
-    text: `You can find git preo for this project and fork it here. `,
+    text: `You can find git repo for this project and fork it here. `,
     link: "https://github.com/sparsh229/digital-portfolio",
   },
   {
